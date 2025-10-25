@@ -1,5 +1,24 @@
 # Micro-Credential Aggregator Platform 🇮🇳
 
+⚠️ Apology & Updated Project Demo Link
+🙏 Apology Notice
+
+I sincerely apologize for the inconvenience caused.
+Earlier, this project’s demonstration video was uploaded to YouTube, and its QR code was embedded in the presentation (PPT).
+Unfortunately, my YouTube channel was terminated, which made the original video link inaccessible.
+
+🎥 New Upload
+
+To ensure everyone can still access the project demonstration,
+I have re-uploaded the video on Google Drive.
+
+🔗 👉 [Click Here to Watch the Project Demo (Google Drive)]
+(https://drive.google.com/file/d/1sTrtR41jJN2xNhaQPJSB89_fIUUV7nAT/view?usp=drive_link)
+💬 Thank you for your understanding and continued support!
+
+Your feedback and encouragement mean a lot to me as I continue developing this project. ❤️
+
+
 A responsive frontend prototype for a government-compliant platform designed to centralize, verify, and showcase micro-credentials and professional certifications in India. This project aims to address the critical issue of certificate fraud by creating a trusted ecosystem for learners, employers, and government bodies.
 
 
