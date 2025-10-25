@@ -14,6 +14,8 @@ I have re-uploaded the video on Google Drive.
 
 🔗 👉 [Click Here to Watch the Project Demo (Google Drive)]
 
+https://drive.google.com/file/d/1TvSQibLiJtA5ZAH8oOD9kexX5rJE0PE7/view?usp=drive_link
+
 💬 Thank you for your understanding and continued support!
 
 Your feedback and encouragement mean a lot to me as I continue developing this project. ❤️
