@@ -13,7 +13,7 @@ To ensure everyone can still access the project demonstration,
 I have re-uploaded the video on Google Drive.
 
 🔗 👉 [Click Here to Watch the Project Demo (Google Drive)]
-(https://drive.google.com/file/d/1sTrtR41jJN2xNhaQPJSB89_fIUUV7nAT/view?usp=drive_link)
+
 💬 Thank you for your understanding and continued support!
 
 Your feedback and encouragement mean a lot to me as I continue developing this project. ❤️
